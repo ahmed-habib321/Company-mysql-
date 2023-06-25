@@ -1,2 +1,2 @@
 # Company-mysql-
-Company project with my sql 
+small Company project with java and mysql 
